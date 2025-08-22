@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sam Berry  
 
-<!--
-**samuelberry-dev/samuelberry-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student passionate about **Computer Science, Cybersecurity, and AI**.   
+Exploring projects in **AI/ML**, **Cybersecurity**, and **software development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & Tools I’m Learning
+- Languages: Python, Java, C++, JavaScript  
+- Tools: Git/GitHub, Arduino, VS Code  
+- Concepts: Algorithms, Data Structures, Machine Learning, Cybersecurity Basics  
+
+---
+
+## Currently Working On
+- Building personal GitHub portfolio  
+- Training small AI models  
+
+---
+
+##  Contact
+📧 `samuel.berry.dev@gmail.com`  
