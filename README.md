@@ -6,7 +6,7 @@ Exploring projects in **AI/ML**, **Cybersecurity**, and **software development**
 ---
 
 ## Tech & Tools I’m Learning
-- Languages: Python, Java, C++, JavaScript  
+- Languages: Python, Java, C++  
 - Tools: Git/GitHub, Arduino, VS Code  
 - Concepts: Algorithms, Data Structures, Machine Learning, Cybersecurity Basics  
 
@@ -14,7 +14,6 @@ Exploring projects in **AI/ML**, **Cybersecurity**, and **software development**
 
 ## Currently Working On
 - Building personal GitHub portfolio  
-- Training small AI models  
 
 ---
 
